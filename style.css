@@ -581,9 +581,14 @@ footer {
         margin: 0;
     }
 
+    .productBtn {
+        margin-top: 20px;
+    }
+
     .gallery {
         display: none;
     }
+
 
     .newSeason {
         flex-direction: column;
@@ -609,5 +614,10 @@ footer {
         align-items: center;
         background-color: whitesmoke;
     }
+
     
+    .payment {
+        width: 50%;
+        transform: translate(-15%, 20%);
+    }
 }
